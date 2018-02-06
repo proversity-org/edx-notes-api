@@ -61,6 +61,13 @@ edX Notes Store uses `Haystack <http://haystacksearch.org/>`_ which comes with s
 Please read more about ``update_index`` management command
 `here <http://django-haystack.readthedocs.org/en/latest/management_commands.html#update-index>`_.
 
+Configuration and Hookup with LMS
+---------------------------------
+
+Please see the following for the configuration steps.
+`edx-notes configruation <https://openedx.atlassian.net/wiki/spaces/OpenOPS/pages/26182212/How+to+Get+edX+Notes+Running>`_. 
+
+
 License
 -------
 
